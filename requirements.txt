@@ -1,0 +1,9 @@
+torch>=1.10
+torchvision>=0.11
+opencv-python>=4.5
+numpy>=1.21
+Pillow>=8.4
+PyQt5>=5.15
+matplotlib>=3.5
+scikit-learn>=1.0
+labelme>=5.2  
